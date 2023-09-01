@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchive_view=self.webpackChunkarchive_view||[]).push([[8989],{91999:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/estuate2/daa/archive-viewer/blog/tags/hola","allTagsPath":"/estuate2/daa/archive-viewer/blog/tags","count":1}')}}]);

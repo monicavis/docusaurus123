@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchive_view=self.webpackChunkarchive_view||[]).push([[9500],{82620:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/estuate2/daa/archive-viewer/blog/tags/facebook","allTagsPath":"/estuate2/daa/archive-viewer/blog/tags","count":1}')}}]);
